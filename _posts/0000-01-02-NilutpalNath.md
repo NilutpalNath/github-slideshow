@@ -1,11 +1,8 @@
 ---
-
 layout: slide
-
 title: "Welcome to our second slide!"
-
 ---
-
-Hey this is a new slide
+> Work happens best when collaborated together
+> -Ingineous Mind
 
 Use the left arrow to go back!
